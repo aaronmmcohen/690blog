@@ -3,4 +3,4 @@ One fiction writer's reflection's on teaching freshman composition. (In case any
 Links
 =====
 
-Week One (./week_one)
+[Week One](https://aaronmmcohen.github.io/690blog/week_one)
