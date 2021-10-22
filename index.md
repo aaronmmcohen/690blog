@@ -10,3 +10,5 @@ Links
 [Week Five](https://aaronmmcohen.github.io/690blog/week_five)
 
 [Week Seven](https://aaronmmcohen.github.io/690blog/week_seven)
+
+[Week Nine](https://aaronmmcohen.github.io/690blog/week_nine)
